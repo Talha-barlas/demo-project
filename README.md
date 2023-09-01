@@ -1,4 +1,4 @@
 # demo-project
 first git repository
 <br>
-Author - Talha Khan
+Author - Talha Khan(barlas)
